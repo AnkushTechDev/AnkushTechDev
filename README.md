@@ -1,20 +1,19 @@
 ![logo](AnkushTechDev-github-header-image.png)
 
 ### Who am i?
-- 🔭 I am currently working as a **Senior Software Engineer**.
-- 🌱 Passionate about all things **Programming**, I am always eager to explore new technologies and methodologies.
-- :seedling: Currently diving deep into **AI**, constantly seeking to broaden my knowledge and skillset.
+- 🔭 Just your average **Senior Software Sorcerer** conjuring code spells in the depths of the digital realm.
+- 🌱 In a torrid love affair with **Programming**, I flirt shamelessly with every new tech that catches my eye.
+- :seedling: Currently lost in the mystical forests of **AI**, where I wrestle with neural networks and dance with data dragons.
 
 ### Technologies I'm Comfortable With
-- **Backend:** Node.js, NestJs, ExpressJs, Loopback, PHP, Laravel, Codeigniter, Python, Django, Flask
-- **Frontend:** ReactJS, AngularJs, Angular 2+
-- **Mobile:** Ionic 5, React-Native
-- **Databases:** MongoDB, Redis, MySQL, Firebase DB
-- **Cloud Platforms:** GCP, AWS, Linux Server, Firebase
-- **Tools and Services:** Docker, OpenLens, New Relic, Mailchimp, Stripe, RazorPay, Beacons, GitHub, Trello, Jira
-- **Other:** JavaFX, Electron
+- **Backend:** Node.js, NestJs, ExpressJs, Loopback - basically, I speak fluent backend gibberish.
+- **Frontend:** ReactJS, AngularJs, Angular 2+ - crafting pixel poetry that sings in the browser.
+- **Mobile:** Ionic 5, React-Native - because making apps for smartphones is my superpower.
+- **Databases:** MongoDB, Redis, MySQL, Firebase DB - where I store the secrets of the digital universe.
+- **Cloud Platforms:** GCP, AWS, Linux Server, Firebase - my cloud kingdom, where dreams are deployed.
+- **Tools and Services:** Docker, OpenLens, New Relic - my trusty sidekicks in the quest for digital glory.
+- **Other:** JavaFX, Electron - because sometimes I dabble in black magic.
 
 ### Fun Facts
-- I like to work 12 hours sometimes; there's just so much to explore and create!
-- I learn very quickly; adaptability is key in the fast-paced world of IT.
-- I believe in the trial and error method for learning - it's where innovation thrives!
+- I learn faster than a speeding bullet; adapting is my superpower in the chaos of IT.
+- I believe in the trial and error method for learning - it's like throwing spaghetti at the wall and seeing what sticks. Hey, innovation thrives in chaos, right?
