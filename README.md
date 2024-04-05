@@ -17,3 +17,5 @@
 ### Fun Facts
 - I learn faster than a speeding bullet; adapting is my superpower in the chaos of IT.
 - I believe in the trial and error method for learning - it's like throwing spaghetti at the wall and seeing what sticks. Hey, innovation thrives in chaos, right?
+
+<img src="./contributions1.png">
