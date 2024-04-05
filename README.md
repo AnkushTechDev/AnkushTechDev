@@ -6,13 +6,13 @@
 - :seedling: Currently lost in the mystical forests of **AI**, where I wrestle with neural networks and dance with data dragons.
 
 ### Technologies I'm Comfortable With
-- **Backend:** Node.js, NestJs, ExpressJs, Loopback - basically, I speak fluent backend gibberish.
-- **Frontend:** ReactJS, AngularJs, Angular 2+ - crafting pixel poetry that sings in the browser.
-- **Mobile:** Ionic 5, React-Native - because making apps for smartphones is my superpower.
-- **Databases:** MongoDB, Redis, MySQL, Firebase DB - where I store the secrets of the digital universe.
-- **Cloud Platforms:** GCP, AWS, Linux Server, Firebase - my cloud kingdom, where dreams are deployed.
-- **Tools and Services:** Docker, OpenLens, New Relic - my trusty sidekicks in the quest for digital glory.
-- **Other:** JavaFX, Electron - because sometimes I dabble in black magic.
+- **Backend:** Node.js, NestJs, ExpressJs, Loopback, PHP, Laravel, Codeigniter, Python, Django, Flask
+- **Frontend:** ReactJS, AngularJs, Angular 2+
+- **Mobile:** Ionic 5, React-Native
+- **Databases:** MongoDB, Redis, MySQL, Firebase DB
+- **Cloud Platforms:** GCP, AWS, Linux Server, Firebase
+- **Tools and Services:** Docker, OpenLens, New Relic, Mixpanel, GitHub, Trello, Jira
+- **Other:** JavaFX, Electron
 
 ### Fun Facts
 - I learn faster than a speeding bullet; adapting is my superpower in the chaos of IT.
