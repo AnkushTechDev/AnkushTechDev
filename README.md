@@ -1,9 +1,11 @@
 ![logo](AnkushTechDev-github-header-image.png)
 
 ### Who am i?
+- 👨‍💻 A seasoned **Tech Lead** with 8+ years of full-stack wizardry — guiding teams, shipping scalable apps, and making clean architecture.
 - 🔭 Just your average **Senior Software Sorcerer** conjuring code spells in the depths of the digital realm.
 - 🌱 In a torrid love affair with **Programming**, I flirt shamelessly with every new tech that catches my eye.
-- :seedling: Currently lost in the mystical forests of **AI**, where I wrestle with neural networks and dance with data dragons.
+- 🌌 Currently navigating the mystical forests of **AI**, where I wrestle with neural networks and dance with data dragons.
+
 
 ### Technologies I'm Comfortable With
 - **Backend:** Node.js, NestJs, ExpressJs, Loopback, PHP, Laravel, Codeigniter, Python, Django, Flask
