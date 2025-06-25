@@ -13,7 +13,7 @@
 - **Mobile:** Ionic 5, React-Native
 - **Databases:** MongoDB, Redis, MySQL, Firebase DB
 - **Cloud Platforms:** GCP, AWS, Linux Server, Firebase
-- **Tools and Services:** Docker, OpenLens, New Relic, Mixpanel, GitHub, Trello, Jira
+- **Tools and Services:** Docker, Kafka, OpenLens, New Relic, Mixpanel, GitHub, Trello, Jira
 - **Other:** JavaFX, Electron
 
 ### Fun Facts
